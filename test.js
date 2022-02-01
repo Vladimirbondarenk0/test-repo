@@ -32,7 +32,8 @@
             result[symbol] = -1;
         }
     }
-    // 2 часть
+
+    
     function findNumbers(numbers, array) {
         let result = {};
         for (let i = 0; i < numbers.length; i++) {
